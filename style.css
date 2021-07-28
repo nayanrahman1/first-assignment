@@ -2,6 +2,31 @@ body{
     font-family: 'Poppins', sans-serif;
     
 }
+.navbar{
+    position: fixed;
+    height: 80px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    }
+
+.navbar ul{
+    float: right;
+    margin-right: 20px;
+}
+.navbar ul li{
+    list-style: none;
+    margin: 0 8px;
+    display: inline-block;
+    line-height: 80px;
+}
+.navbar ul li a{
+    font-size: 22px;
+    color:orange;
+    padding: 6px 13px;
+    text-decoration: none;
+    }
+
 .flexible-container{
     display: flex;
     margin-bottom: 100px;
@@ -76,3 +101,6 @@ body{
         padding: 60px;
         color: white;
     }
+
+
+    
