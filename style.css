@@ -66,5 +66,13 @@ body{
     
     .food-container{
         display: flex;
+        margin-top: 50px;
     }
-    
+    footer{
+        text-align: justify;
+        text-align: center;
+        margin-top: 80px;
+        background-color: rgb(20, 19, 19);
+        padding: 60px;
+        color: white;
+    }
