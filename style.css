@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    
 }
 section{
     display: flex;
@@ -28,3 +29,13 @@ section{
     color:white;
     border-radius: 25px;
 }
+.background-img{
+    background-image: url(images/7.png);
+    background-size: cover;   
+    }
+
+    .third-section{
+        text-align: center;
+    }
+    
+    
